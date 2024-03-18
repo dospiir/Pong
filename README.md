@@ -10,7 +10,7 @@ Once DosBox installed, you can download the game file and launch DosBox.
 ### 2- Launch the game: 
 Once DosBox open, you can go ahead and type
 ``` mount c: PathToTheGame```
-!(https://imgur.com/a/ql3yKV9)
+https://imgur.com/a/ql3yKV9
 
 Once the Directory is mounted, type 
 ```c:```
