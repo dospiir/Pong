@@ -21,7 +21,7 @@ Finally you can launch the game by typing
 
 # How To Play
 ## IMPORTANT: THIS GAME IS NOT FULLY FONCTIONAL, IT STILL HAS MANY BUGS, BUT ITS A GREAT EXPIRIMENT
-The  has 3 Button, each button can be pressed using its corresponding number
+The Main Menu has 3 Buttons, each button can be pressed using its corresponding number
 (Pressing 1 takes you to Singleplayer, 2 to Multiplayer, 3 to Options) 
 
 ## Singleplayer
